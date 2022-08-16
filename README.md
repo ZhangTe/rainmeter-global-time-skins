@@ -10,9 +10,11 @@ The size of the skin: 300 x 300 (px)
 ## Country Flags
 
 Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
+If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
+
 
 The flags' shape used by the skin is from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
-If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
+
 
 ## CITY LIST
 
