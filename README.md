@@ -91,6 +91,6 @@ send me a email to ztbxxt@hotmail.com; or just add issues here.
 ## buy me a coffee
 
 Wish you enjoy this skin. If you want to contribute, you can help me update gadgets or make a donation:<br/>
-<img src="https://afdian.net/static/img/logo/logo.png" alt="alt text" height="20px" href='https://afdian.net/@ztbxxt'/>
+<a href='https://afdian.net/@ztbxxt'><img src="https://afdian.net/static/img/logo/logo.png" alt="alt text" height="20px" /></a>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ztbxxt) 
-<img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20px" href='https://Ko-fi.com/ztbxxt'/>
+<a href='https://Ko-fi.com/ztbxxt'><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20px" /></a>
