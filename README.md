@@ -8,8 +8,9 @@ The size of the skin: 300 x 300 (px)
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/assets/SAMPLE1.PNG)
 ## Country Flags
+
 ==Please be careful about the use of flags [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places==
-The flags' shape material used by the skin is from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
+The flags' shape used by the skin is from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
 If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
 
 ## CITY LIST
@@ -68,7 +69,7 @@ The cyon hand is year hand.
 ## DIY & License
 I've tried to make all the name of the variables and each modules/meters easy to understand.
 Image files are created by svg shapes, which can be modified with svg comptible softwares, like [inkscape](https://inkscape.org/) .
-Other parts you can find in *Components * folder.
+Other parts you can find in *Components* folder.
 
 This project is under GPLv2 license.
 
