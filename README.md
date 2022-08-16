@@ -88,9 +88,9 @@ latest Version 1.0.5 updated 2022-08-16
 When you find any bugs or have suggestions & requests, please let me know.
 send me a email to ztbxxt@hotmail.com; or just add issues here.
 
-## buy me a coffee
-
-Wish you enjoy this skin. If you want to contribute, you can help me update gadgets or make a donation:<br/>
+## Donation
+Wish you enjoy this work. 
+It will be a greet help when you can make a donation:<br/>
 <a href='https://afdian.net/@ztbxxt'><img src="https://afdian.net/static/img/logo/logo.png" alt="alt text" height="20px" /></a>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ztbxxt) 
 <a href='https://Ko-fi.com/ztbxxt'><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20px" /></a>
