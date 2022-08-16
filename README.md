@@ -13,7 +13,7 @@ Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_
 If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
 
 
-The flags' shape used by the skin is from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
+The flags' shapes used by the skin are from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
 
 
 ## CITY LIST
