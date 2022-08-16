@@ -92,5 +92,5 @@ send me a email to ztbxxt@hotmail.com; or just add issues here.
 
 Wish you enjoy this skin. If you want to contribute, you can help me update gadgets or make a donation:<br/>
 [![Donate](https://afdian.net/static/img/logo/logo.png)](https://afdian.net/@ztbxxt)<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ztbxxt)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ztbxxt) <br/>
 <img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20" href='https://Ko-fi.com/ztbxxt'/>
