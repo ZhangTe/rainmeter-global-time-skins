@@ -7,7 +7,6 @@ It works with a analogue round clocks surface with a ring-shaped hand labelled w
 The size of the skin: 300 x 300 (px)
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/assets/SAMPLE1.PNG)
-()
 ## Country Flags
 ==Please be careful about the use of flags [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places==
 The flags' shape material used by the skin is from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
