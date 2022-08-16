@@ -90,6 +90,6 @@ send me a email to ztbxxt@hotmail.com; or just add issues here.
 
 ## buy me a coffee
 
+Wish you enjoy this skin. If you want to contribute, you can help me update gadgets or make a donation:
 [爱发电](https://afdian.net/@ztbxxt)
-
 [Paypal](https://paypal.me/ztbxxt)
