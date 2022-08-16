@@ -46,8 +46,8 @@ The flags' shape used by the skin is from [Country-flags repo in github](https:/
 |UTC-1|CABO VERDE| 
 
 ## Day-Night background
-City Label in the dark background mean the city is at night(18:00-6:00)
-City Label in the light background mean the city is in daylight (6:00-18:00)
+City Label in the dark background indicates the city is at night(18:00-6:00)
+City Label in the light background means the city is in daylight (6:00-18:00)
 
 # Additional functions
 
