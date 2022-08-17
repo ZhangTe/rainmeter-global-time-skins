@@ -103,7 +103,7 @@ This project is under GPLv2 license.
 
 
 ## Todos
-latest Version 1.0.5 updated 2022-08-16
+latest Version 1.0.6 updated 2022-08-17
 
 - Add Daylight savings politics into the clock.
 

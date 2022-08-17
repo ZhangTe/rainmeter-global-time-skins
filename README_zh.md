@@ -61,59 +61,55 @@
 
 
 
-## Day-Night background
-City Label in the dark background indicates the city is at night(18:00-6:00)
-City Label in the light background means the city is in daylight (6:00-18:00)
+## 昼夜表示
+世界表上深色的区域表示夜晚(18:00-6:00)，浅色表示白天(6:00-18:00)
 
-# Additional functions
+# 其他功能
 
-## Moon Phase
-A simple moon phase image. 
-- using 29.53059 days as a lunar cycle
-- assuming that the moon's orbit is a circle for the earth and the moon moves at a constant speed
+## 月相
+一个比较简单的月相实现
+- 29.53059 天作为一个月球周期
+- 假设月亮匀速绕地球转动，轨道为正圆
 
-## Year Hand
-The cyon hand is year hand.
-- using 365.2422 days as a solar cycle
-- information about the months and seasons can be simply read. 
-	Seasons is indicated by different colors:
-		Spring:Green
-		Summer:Red
-		Autumn:Orange
-		Winter:Blue
-- One year (New Year's Day) starts at 6 o'clock
+## 年表针
+青色的表针是年表针，转一圈为一太阳年
+- 一个太阳年设置为 365.2422 天
+- 可以通过年指针读取关于月份、节气和季节的信息
+	季节对应四个颜色
+		春季:绿色
+		夏季:红色
+		秋季:橙色
+		冬季:蓝色
+- 6点钟方向为一年开始（1月1日）
 
-# Environment & Installation 
+# 环境需求和安装方法
 
-> [Rainmeter](https://docs.rainmeter.net/) will run on Windows 7 (Service Pack 1 and Platform Update required) and above.
->
+> [Rainmeter](https://docs.rainmeter.net/) 只能在windows7或以上的系统运行。
+> 安装方法请参照Rainmeter手册
+> [官方下载链接(4.5.13)](https://github.com/rainmeter/rainmeter/releases/download/v4.5.13.3632/Rainmeter-4.5.13.exe)
 > [Installing Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
 > [Installing Skins](https://docs.rainmeter.net/manual/installing-skins/)
 
-# Contribute & Donate
+# 做贡献
 
-## DIY & License
-I've tried to make all the name of the variables and each modules/meters easy to understand.
-Image files are created by svg shapes, which can be modified with svg comptible softwares, like [inkscape](https://inkscape.org/) .
-Other parts you can find in *Components* folder.
-
-This project is under GPLv2 license.
+## DIY与许可
+程序和外观制作命名时尽量保证易读性，另外也可参照Component文件嘉中的部件来解析、重用和创作。
+图像素材由asset中的svg矢量图文件生成，可以用svg编辑器比如[inkscape](https://inkscape.org/)来修改和制作。
+本项目采用GPLv2许可协议（开源）。
 
 
-## Todos
-latest Version 1.0.5 updated 2022-08-16
+## 后续
+latest Version 1.0.6 updated 2022-08-17
 
-- Add Daylight savings politics into the clock.
+- 为一些地区添加*夏令时*
 
 
-## Bugs and Request
+## 错误和需求
+如果发现错误或者有需求，可以发送e-mail到ztbxxt@hotmail.com，或者在Github添加一个Issue。
 
-When you find any bugs or have suggestions & requests, please let me know.
-send me a email to ztbxxt@hotmail.com; or just add issues here.
-
-## Donation
-Wish you enjoy this work. 
-It will be a greet help when you can make a donation:<br/>
+## 捐助
+如果您喜欢我的作品， 
+您的捐赠将是对其最大的认可：<br/>
 <a href='https://Ko-fi.com/ztbxxt'><img src="https://img.shields.io/badge/Donate-Ko_fi-442200.svg" /><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20" width="30" /></a>
 <a href='https://paypal.me/ztbxxt'><img src="https://img.shields.io/badge/Donate-PayPal-2275FF.svg" /><img src="https://www.paypalobjects.com/webstatic/icon/pp32.png" alt="alt text" height="20" width="20" /></a>
 <a href='https://afdian.net/@ztbxxt'><img src="https://img.shields.io/badge/Donate-爱发电-6900CF.svg"/><img src="https://afdian.net/static/img/logo/logo.png" height="20"  width="20" /></a>
