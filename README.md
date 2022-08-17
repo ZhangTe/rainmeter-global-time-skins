@@ -67,6 +67,13 @@ The cyon hand is year hand.
 		Winter:Blue
 - One year (New Year's Day) starts at 6 o'clock
 
+# Environment & Installation 
+
+> [Rainmeter](https://docs.rainmeter.net/) will run on Windows 7 (Service Pack 1 and Platform Update required) and above.
+>
+> [Installing Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
+> [Installing Skins](https://docs.rainmeter.net/manual/installing-skins/)
+
 # Contribute & Donate
 
 ## DIY & License
@@ -91,6 +98,6 @@ send me a email to ztbxxt@hotmail.com; or just add issues here.
 ## Donation
 Wish you enjoy this work. 
 It will be a greet help when you can make a donation:<br/>
-<a href='https://afdian.net/@ztbxxt'><img src="https://afdian.net/static/img/logo/logo.png" alt="alt text" height="20px" /></a>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ztbxxt) 
-<a href='https://Ko-fi.com/ztbxxt'><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20px" /></a>
+<a href='https://Ko-fi.com/ztbxxt'><img src="https://img.shields.io/badge/Donate-Ko_fi-442200.svg" /><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20" width="30" /></a>
+<a href='https://paypal.me/ztbxxt'><img src="https://img.shields.io/badge/Donate-PayPal-2275FF.svg" /><img src="https://www.paypalobjects.com/webstatic/icon/pp32.png" alt="alt text" height="20" width="20" /></a>
+<a href='https://afdian.net/@ztbxxt'><img src="https://img.shields.io/badge/Donate-爱发电-6900CF.svg"/><img src="https://afdian.net/static/img/logo/logo.png" height="20"  width="20" /></a>
