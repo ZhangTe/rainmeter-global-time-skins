@@ -1,67 +1,65 @@
 [English](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README.md)| [中文](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README_zh.md)
-# 12-Hour Global Clock
 
-## The Clock
-*Global Clock* is a set of [Rainmeter](https://docs.rainmeter.net/) skin.
-It works on a analogue round clocks surface with a ring-shaped hand labelled with name of major cities in each timezone.
+# 12时-世界时钟
 
-Available size of the skin: 300 x 300 (px)/ 400 x 400 (px)/ 500 x 500 (px)
-Resizing is easy to be done, see DIY.
+## 简介
+*世界时钟* 包括几个[Rainmeter](https://docs.rainmeter.net/) 皮肤.
+外观像普通的圆形时钟一样，不过在边上加了一圈指针，可以显示不同城市和地区所处的时间。
+
+皮肤大小：300 x 300 (px)/ 400 x 400 (px)/ 500 x 500 (px)
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE1.PNG)
-## Country Flags
+## 国旗
 
-Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
-If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
+公共场所使用旗帜图案时请务必注意各国家和地区的“旗帜政策”。比如“某些旗帜不适合在一些地区显示”，“或者公开场所不应将旗帜向某方侧放或倒悬”，以及“多旗帜出现时的排布，大小”等等问题————由于皮肤设计限制，某些问题可能无法避免。
+如果希望避免政治法律风险，可以选用*无旗帜*的版本。
 
 
 ***
-"No-Flag" version configuration
+"无旗帜"版本设置
 
-This can be manually configured by edit the *ini file* use a text-editor.
-- Right click the skin then choose "edit skin"
-- Find the module \[MeterHoursUTC0\]
-- Find the attribute "ImageName=hand12wf.png". 
-    To do this, in most text-editor you can press 'ctrl+F' to call out the search window, than input "ImageName=hand12wf.png" to find out the line
-- Modify this line with "ImageName=hand12w.png"
-- Refresh the skin
+可以用文本编辑软件手动修改对应的ini文件：
+- 对皮肤单击右键————选“编辑皮肤”
+- 找到模块\[MeterHoursUTC0\]
+- 找到属性语句"ImageName=hand12wf.png". 
+    可以点'ctrl+F'，搜索"ImageName=hand12wf.png"来找到对应语句
+- 把这行改为"ImageName=hand12w.png"
+- 刷新皮肤
 
 
-This can also be achieved by changing the file name "hand12w.png" to "hand12wf.png" in the corresponding folder 
+也可以通过修改文件名来设置，找到皮肤文件夹，“hand12w.png”改为“hand12wf.png”。
 ***
 
 
-The flags' shapes used by the skin are from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
+旗帜文件来自 [github hampusborgos的旗帜库](https://github.com/hampusborgos/country-flags) .
 
 
-## CITY LIST
+## 城市列表
 
-| UTC | CITY|
-|---|---|
-|UTC+0|LONDON|
-|UTC+1|PARIS| 
-|UTC+2|CAIRO| 
-|UTC+3|MOSCOW| 
-|UTC+4|DUBAI| 
-|UTC+5|DELHI|
-|UTC+6|DHAKA| 
-|UTC+7|SINGAPORE| 
-|UTC+8|BEIJING| 
-|UTC+9|TOKYO| 
-|UTC+10|SYDNEY|
-|UTC+11| | 
-|UTC+12|WELLINGTON| 
-|UTC-11| | 
-|UTC-10|HAWAII| 
-|UTC-9| | 
-|UTC-8|LOS ANGELES |
-|UTC-7|DENVER | 
-|UTC-6|MEXICO CITY | 
-|UTC-5|NEWYORK | 
-|UTC-4|MANAUS|
-|UTC-3|RIO DE JANEIRO| 
-|UTC-2|SOUTH GEORGIA| 
-|UTC-1|CABO VERDE| 
+| UTC | 城市英文|中文名 | UTC | 城市英文|中文名|
+|---|---|---|---|---|---|
+|UTC+0|LONDON| 伦敦|UTC+12|WELLINGTON| 惠灵顿|
+|UTC+1|PARIS| 巴黎|UTC-11| | |
+|UTC+2|CAIRO| 开罗|UTC-10|HAWAII| 夏威夷|
+|UTC+3|MOSCOW| 莫斯科|UTC-9| |  |
+|UTC+4|DUBAI| 迪拜|UTC-8|LOS ANGELES | 洛杉矶|
+|UTC+5|DELHI|德里|UTC-7|DENVER | 丹佛|
+|UTC+6|DHAKA| 大卡|UTC-6|MEXICO CITY | 墨西哥城|
+|UTC+7|SINGAPORE| 新加坡|UTC-5|NEWYORK | 纽约|
+|UTC+8|BEIJING| 北京|UTC-4|MANAUS|马瑙斯|
+|UTC+9|TOKYO| 东京|UTC-3|RIO DE JANEIRO| 里约热内卢|
+|UTC+10|SYDNEY|悉尼|UTC-2|SOUTH GEORGIA| 南乔治亚|
+|UTC+11| |   |UTC-1|CABO VERDE| 佛得角| 
+
+
+
+
+
+
+
+
+
+
 
 ## Day-Night background
 City Label in the dark background indicates the city is at night(18:00-6:00)
