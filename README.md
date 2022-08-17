@@ -10,6 +10,7 @@ Resizing is easy to be done, see DIY.
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE1.PNG)
 ## Country Flags
+By default flags are visible in skins.
 
 Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
 If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
