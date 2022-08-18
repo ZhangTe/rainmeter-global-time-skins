@@ -71,6 +71,7 @@
 一个比较简单的月相实现
 - 29.53059 天作为一个月球周期
 - 假设月亮匀速绕地球转动，轨道为正圆
+<br/>
 ![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
 ## 年表针
 青色的表针是年表针，转一圈为一太阳年
