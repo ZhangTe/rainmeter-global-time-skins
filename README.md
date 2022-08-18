@@ -74,7 +74,7 @@ City Label in the light background means the city is in daylight (6:00-18:00)
 A simple moon phase image. 
 - using 29.53059 days as a lunar cycle
 - assuming that the moon's orbit is a circle for the earth and the moon moves at a constant speed
-
+![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
 ## Year Hand
 The cyon hand is year hand.
 - using 365.2422 days as a solar cycle
