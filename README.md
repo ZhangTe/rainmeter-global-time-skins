@@ -5,7 +5,7 @@
 *Global Clock* is a set of [Rainmeter](https://docs.rainmeter.net/) skin.
 It works on a analogue round clocks surface with a ring-shaped hand labelled with name of major cities in each timezone.
 
-Available size of the skin: 300 x 300 (px)/ 400 x 400 (px)/ 500 x 500 (px)
+Available size of the skin (px): 200 x 200 / 300 x 300 / 400 x 400 / 500 x 500 
 Resizing is easy to be done, see DIY.
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE1.PNG)
@@ -13,9 +13,14 @@ Resizing is easy to be done, see DIY.
 By default flags are visible in skins.
 
 Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
-If you wish to avoid the political risk of using the flag, you can choose *no-flag* version.
+
+*Update*:
+If you wish to avoid the political risk of using the flag, you can click the button on the very right of the clock (on the border, to 2 o'clock, the small white circle).
 
 
+
+
+The instructions below is OBSOLETE after update .
 ***
 "No-Flag" version configuration
 
