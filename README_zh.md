@@ -92,11 +92,17 @@
 
 # 环境需求和安装方法
 
+## 安装Rainmeter
 > [Rainmeter](https://docs.rainmeter.net/) 只能在windows7或以上的系统运行。
 > 安装方法请参照Rainmeter手册
 > [官方下载链接(4.5.13)](https://github.com/rainmeter/rainmeter/releases/download/v4.5.13.3632/Rainmeter-4.5.13.exe)
 > [Installing Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
+
+## 安装皮肤
 > [Installing Skins](https://docs.rainmeter.net/manual/installing-skins/)
+
+## 字体
+进入assets文件夹，双击字体文件led16sgmnt2-Italic-1.ttf并点选安装，之后重启Rainmeter。
 
 # 做贡献
 
