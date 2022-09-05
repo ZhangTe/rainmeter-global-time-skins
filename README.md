@@ -93,10 +93,15 @@ The cyon hand is year hand.
 
 # Environment & Installation 
 
+## Installation
 > [Rainmeter](https://docs.rainmeter.net/) will run on Windows 7 (Service Pack 1 and Platform Update required) and above.
 >
 > [Installing Rainmeter](https://docs.rainmeter.net/manual/installing-rainmeter/)
 > [Installing Skins](https://docs.rainmeter.net/manual/installing-skins/)
+
+
+## Fonts
+Open Assets Folder and install led16sgmnt2-Italic-1.ttf file to your windows, then restart Rainmeter, the Font should be loaded.
 
 # Contribute & Donate
 
