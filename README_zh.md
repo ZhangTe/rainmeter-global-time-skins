@@ -8,7 +8,7 @@
 
 皮肤大小 (px)：200 x 200 / 300 x 300 / 400 x 400 / 500 x 500
 
-![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE1.PNG)
+![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE2_cn.PNG)
 ## 国旗
 皮肤默认设置为有旗帜的版本。
 
