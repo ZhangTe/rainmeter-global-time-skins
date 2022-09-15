@@ -44,6 +44,7 @@ The flags' shapes used by the skin are from [Country-flags repo in github](https
 Toggle Daylight Saving Time (DST): Click the button on the very right of the clock(on the border, to 3 o'clock, the small white circle).
    Toggle DST for  North  (In the northern hemisphere, DST generally start from end of March to end of October )
    Toggle DST for  South  (In the southern hemisphere, DST activated from end of October to early April )
+Some countries and regions do not have daylight saving time.
 
 > [Daylight Saving Time](https://en.wikipedia.org/wiki/Daylight_saving_time)
 > [DST by Country](https://en.wikipedia.org/wiki/Daylight_saving_time_by_country)

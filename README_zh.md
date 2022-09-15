@@ -38,24 +38,33 @@
 旗帜文件来自 [github hampusborgos的旗帜库](https://github.com/hampusborgos/country-flags) .
 
 
-## 城市列表
+## 城市列表和*夏令时*
+有一部分国家和地区采取夏令时制。
+调整夏令时: 点击表盘右侧边缘的按钮(三点钟方向的小白圆圈).
+   北半球有夏令时政策的地区一般三月底开始实施，十月初结束
+   南半球有夏令时（北半球的冬天）政策的地区，十月初开始，四月初结束
 
-| UTC | 城市英文|中文名 | UTC | 城市英文|中文名|
+> [夏令时|夏时制](https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6)
+> [各地夏令时间列表](https://zh.wikipedia.org/wiki/%E5%90%84%E5%9C%B0%E5%A4%8F%E4%BB%A4%E6%99%82%E9%96%93%E5%88%97%E8%A1%A8)
+> 来自维基百科
+> [夏令时_百度百科](https://baike.baidu.com/item/%E5%A4%8F%E4%BB%A4%E6%97%B6)
+
+
+
+|UTC|夏令时 北|夏令时 南|UTC|夏令时 北|夏令时 南|
 |---|---|---|---|---|---|
-|UTC+0|LONDON| 伦敦|UTC+12|WELLINGTON| 惠灵顿|
-|UTC+1|PARIS| 巴黎|UTC-11| | |
-|UTC+2|CAIRO| 开罗|UTC-10|HAWAII| 夏威夷|
-|UTC+3|MOSCOW| 莫斯科|UTC-9| |  |
-|UTC+4|DUBAI| 迪拜|UTC-8|LOS ANGELES | 洛杉矶|
-|UTC+5|DELHI|德里|UTC-7|DENVER | 丹佛|
-|UTC+6|DHAKA| 大卡|UTC-6|MEXICO CITY | 墨西哥城|
-|UTC+7|SINGAPORE| 新加坡|UTC-5|NEWYORK | 纽约|
-|UTC+8|BEIJING| 北京|UTC-4|MANAUS|马瑙斯|
-|UTC+9|TOKYO| 东京|UTC-3|RIO DE JANEIRO| 里约热内卢|
-|UTC+10|SYDNEY|悉尼|UTC-2|SOUTH GEORGIA| 南乔治亚|
-|UTC+11| |   |UTC-1|CABO VERDE| 佛得角| 
-
-
+|UTC+0|ABIDJAN 阿比让|LONDON 伦敦|UTC+12|WELLINGTON 惠灵顿||
+|UTC+1|LONDON 伦敦|PARIS 巴黎|UTC-11||WELLINGTON 惠灵顿|
+|UTC+2|PARIS 巴黎|CAIRO 开罗|UTC-10|HAWAII 夏威夷|HAWAII 夏威夷 |
+|UTC+3|MOSCOW 莫斯科|MOSCOW 莫斯科|UTC-9|||
+|UTC+4|DUBAI 迪拜|DUBAI 迪拜|UTC-8||LOS ANGELES 洛杉矶|
+|UTC+5|DELHI 德里|DELHI 德里|UTC-7|LOS ANGELES 洛杉矶|DENVER 丹佛|
+|UTC+6|DHAKA 达卡|DHAKA 达卡|UTC-6|DENVER 丹佛|MEXICO CITY 墨西哥城|
+|UTC+7|SINGAPORE 新加坡|SINGAPORE 新加坡|UTC-5|MEXICO CITY 墨西哥城|NEWYORK 纽约|
+|UTC+8|BEIJING 北京|BEIJING 北京|UTC-4|NEWYORK 纽约|MANAUS 马瑙斯|
+|UTC+9|TOKYO 东京|TOKYO 东京|UTC-3|RIO DE JANEIRO 里约热内卢|RIO DE JANEIRO 里约热内卢|
+|UTC+10|SYDNEY 悉尼||UTC-2|SOUTH GEORGIA 南乔治亚|SOUTH GEORGIA 南乔治亚|
+|UTC+11||SYDNEY悉尼|UTC-1|CABO VERDE 佛得角|CABO VERDE 佛得角|
 
 
 
@@ -112,10 +121,10 @@
 本项目采用GPLv2许可协议（开源）。
 
 
-## 后续
-latest Version 1.0.6 updated 2022-08-17
-
-- 为一些地区添加*夏令时*
+## 更新
+ 1.0.6 更新于 2022-08-17
+ 1.0.8 更新于 2022-09-15
+   √ 为一些地区添加*夏令时*
 
 
 ## 错误和需求
