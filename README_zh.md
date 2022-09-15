@@ -4,6 +4,7 @@
 
 ## 简介
 *世界时钟* 包括几个[Rainmeter](https://docs.rainmeter.net/) 皮肤.
+
 外观像普通的圆形时钟一样，不过在边上加了一圈指针，可以显示不同城市和地区所处的时间。
 
 皮肤大小 (px)：200 x 200 / 300 x 300 / 400 x 400 / 500 x 500
@@ -13,6 +14,7 @@
 皮肤默认设置为有旗帜的版本。
 
 公共场所使用旗帜图案时请务必注意各国家和地区的“旗帜政策”。比如“某些旗帜不适合在一些地区显示”，或者“公开场所不应将旗帜向某方侧放或倒悬”，以及“多旗帜出现时应注意排布，大小”等等问题————由于皮肤设计限制，某些问题可能无法避免。
+
 如果希望避免政治法律风险，可以选用*无旗帜*的版本。
 
 *更新*：
@@ -40,8 +42,11 @@
 
 ## 城市列表和*夏令时*
 有一部分国家和地区采取夏令时制。
+
 调整夏令时: 点击表盘右侧边缘的按钮(三点钟方向的小白圆圈).
+
    北半球有夏令时政策的地区一般三月底开始实施，十月初结束
+   
    南半球有夏令时（北半球的冬天）政策的地区，十月初开始，四月初结束
 
 > [夏令时|夏时制](https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6)
@@ -80,6 +85,7 @@
 # 其他功能
 
 ## 月相
+
 一个比较简单的月相实现
 - 29.53059 天作为一个月球周期
 - 假设月亮匀速绕地球转动，轨道为正圆
@@ -89,14 +95,21 @@
 ![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
 
 ## 年表针
+
 青色的表针是年表针，转一圈为一太阳年
 - 一个太阳年设置为 365.2422 天
 - 可以通过年指针读取关于月份、节气和季节的信息
+
 	季节对应四个颜色
+	
 		春季:绿色
+		
 		夏季:红色
+		
 		秋季:橙色
+		
 		冬季:蓝色
+		
 - 6点钟方向为一年开始（1月1日）
 
 # 环境需求和安装方法
@@ -117,13 +130,17 @@
 
 ## DIY与许可
 程序和外观制作命名时尽量保证易读性，另外也可参照Component文件嘉中的部件来解析、重用和创作。
+
 图像素材由asset中的svg矢量图文件生成，可以用svg编辑器比如[inkscape](https://inkscape.org/)来修改和制作。
+
 本项目采用GPLv2许可协议（开源）。
 
 
 ## 更新
  1.0.6 更新于 2022-08-17
+ 
  1.0.8 更新于 2022-09-15
+ 
    √ 为一些地区添加*夏令时*
 
 
@@ -132,6 +149,7 @@
 
 ## 捐助
 如果您喜欢我的作品， 
+
 您的捐赠将是对其最大的认可：<br/>
 <a href='https://Ko-fi.com/ztbxxt'><img src="https://img.shields.io/badge/Donate-Ko_fi-442200.svg" /><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" alt="alt text" height="20" width="30" /></a>
 <a href='https://paypal.me/ztbxxt'><img src="https://img.shields.io/badge/Donate-PayPal-2275FF.svg" /><img src="https://www.paypalobjects.com/webstatic/icon/pp32.png" alt="alt text" height="20" width="20" /></a>

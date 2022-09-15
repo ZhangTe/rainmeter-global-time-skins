@@ -3,9 +3,11 @@
 
 ## The Clock
 *Global Clock* is a set of [Rainmeter](https://docs.rainmeter.net/) skin.
+
 It works on a analogue round clocks surface with a ring-shaped hand labelled with name of major cities in each timezone.
 
 Available size of the skin (px): 200 x 200 / 300 x 300 / 400 x 400 / 500 x 500 
+
 Resizing is easy to be done, see DIY.
 
 ![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE2.PNG)
@@ -41,9 +43,13 @@ The flags' shapes used by the skin are from [Country-flags repo in github](https
 
 
 ## CITY LIST with *Daylight Saving Times*
+
 Toggle Daylight Saving Time (DST): Click the button on the very right of the clock(on the border, to 3 o'clock, the small white circle).
+
    Toggle DST for  North  (In the northern hemisphere, DST generally start from end of March to end of October )
+   
    Toggle DST for  South  (In the southern hemisphere, DST activated from end of October to early April )
+   
 Some countries and regions do not have daylight saving time.
 
 > [Daylight Saving Time](https://en.wikipedia.org/wiki/Daylight_saving_time)
@@ -78,7 +84,9 @@ Some countries and regions do not have daylight saving time.
 |UTC-1|CABO VERDE|CABO VERDE|
 
 ## Day-Night background
+
 City Label in the dark background indicates the city is at night(18:00-6:00)
+
 City Label in the light background means the city is in daylight (6:00-18:00)
 
 # Additional functions
@@ -92,11 +100,17 @@ A simple moon phase image.
 The cyon hand is year hand.
 - using 365.2422 days as a solar cycle
 - information about the months and seasons can be simply read. 
+
 	Seasons is indicated by different colors:
+	
 		Spring:Green
+		
 		Summer:Red
+		
 		Autumn:Orange
+		
 		Winter:Blue
+		
 - One year (New Year's Day) starts at 6 o'clock
 
 # Environment & Installation 
@@ -115,7 +129,9 @@ Open Assets Folder and install led16sgmnt2-Italic-1.ttf file to your windows, th
 
 ## DIY & License
 I've tried to make all the name of the variables and each modules/meters easy to understand.
+
 Image files are created by svg shapes, which can be modified with svg comptible softwares, like [inkscape](https://inkscape.org/) .
+
 Other parts you can find in *Components* folder.
 
 This project is under GPLv2 license.
@@ -123,13 +139,16 @@ This project is under GPLv2 license.
 
 ## Updates
  Version 1.0.6 updated 2022-08-17
+ 
  Version 1.0.8 updated 2022-09-15
+ 
    Add Daylight savings politics into the clock.
 
 
 ## Bugs and Request
 
 When you find any bugs or have suggestions & requests, please let me know.
+
 send me a email to ztbxxt@hotmail.com; or just add issues here.
 
 ## Donation
