@@ -8,14 +8,14 @@ It works on a analogue round clocks surface with a ring-shaped hand labelled wit
 Available size of the skin (px): 200 x 200 / 300 x 300 / 400 x 400 / 500 x 500 
 Resizing is easy to be done, see DIY.
 
-![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE1.PNG)
+![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE2.PNG)
 ## Country Flags
 By default flags are visible in skins.
 
 Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
 
 *Update*:
-If you wish to avoid the political risk of using the flag, you can click the button on the very right of the clock (on the border, to 2 o'clock, the small white circle).
+If you wish to avoid the political risk of using the flag, you can click the button on the very top-right of the clock (on the border, to 2 o'clock, the small white circle).
 
 
 
@@ -40,34 +40,41 @@ This can also be achieved by changing the file name "hand12w.png" to "hand12wf.p
 The flags' shapes used by the skin are from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
 
 
-## CITY LIST
+## CITY LIST with *Daylight Saving Times*
+Toggle Daylight Saving Time (DST): Click the button on the very right of the clock(on the border, to 3 o'clock, the small white circle).
+   Toggle DST for  North  (In the northern hemisphere, DST generally start from end of March to end of October )
+   Toggle DST for  South  (In the southern hemisphere, DST activated from end of October to early April )
 
-| UTC | CITY|
-|---|---|
-|UTC+0|LONDON|
-|UTC+1|PARIS| 
-|UTC+2|CAIRO| 
-|UTC+3|MOSCOW| 
-|UTC+4|DUBAI| 
-|UTC+5|DELHI|
-|UTC+6|DHAKA| 
-|UTC+7|SINGAPORE| 
-|UTC+8|BEIJING| 
-|UTC+9|TOKYO| 
-|UTC+10|SYDNEY|
-|UTC+11| | 
-|UTC+12|WELLINGTON| 
-|UTC-11| | 
-|UTC-10|HAWAII| 
-|UTC-9| | 
-|UTC-8|LOS ANGELES |
-|UTC-7|DENVER | 
-|UTC-6|MEXICO CITY | 
-|UTC-5|NEWYORK | 
-|UTC-4|MANAUS|
-|UTC-3|RIO DE JANEIRO| 
-|UTC-2|SOUTH GEORGIA| 
-|UTC-1|CABO VERDE| 
+> [Daylight Saving Time](https://en.wikipedia.org/wiki/Daylight_saving_time)
+> [DST by Country](https://en.wikipedia.org/wiki/Daylight_saving_time_by_country)
+> From Wikipedia
+
+|UTC|DST North|DST South|
+|---|---|---|
+|UTC+0|ABIDJAN|LONDON|
+|UTC+1|LONDON|PARIS|
+|UTC+2|PARIS|CAIRO|
+|UTC+3|MOSCOW|MOSCOW|
+|UTC+4|DUBAI|DUBAI|
+|UTC+5|DELHI|DELHI|
+|UTC+6|DHAKA|DHAKA|
+|UTC+7|SINGAPORE|SINGAPORE|
+|UTC+8|BEIJING|BEIJING|
+|UTC+9|TOKYO|TOKYO|
+|UTC+10|SYDNEY||
+|UTC+11||SYDNEY|
+|UTC+12|WELLINGTON||
+|UTC-11||WELLINGTON|
+|UTC-10|HAWAII|HAWAII|
+|UTC-9|||
+|UTC-8||LOS ANGELES|
+|UTC-7|LOS ANGELES|DENVER|
+|UTC-6|DENVER|MEXICO CITY|
+|UTC-5|MEXICO CITY|NEWYORK|
+|UTC-4|NEWYORK|MANAUS|
+|UTC-3|RIO DE JANEIRO|RIO DE JANEIRO|
+|UTC-2|SOUTH GEORGIA|SOUTH GEORGIA|
+|UTC-1|CABO VERDE|CABO VERDE|
 
 ## Day-Night background
 City Label in the dark background indicates the city is at night(18:00-6:00)
@@ -113,10 +120,10 @@ Other parts you can find in *Components* folder.
 This project is under GPLv2 license.
 
 
-## Todos
-latest Version 1.0.6 updated 2022-08-17
-
-- Add Daylight savings politics into the clock.
+## Updates
+ Version 1.0.6 updated 2022-08-17
+ Version 1.0.8 updated 2022-09-15
+   Add Daylight savings politics into the clock.
 
 
 ## Bugs and Request
