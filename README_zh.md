@@ -82,7 +82,7 @@
 
 ## 昼夜表示
 世界表上深色的区域表示夜晚(18:00-6:00)，浅色表示白天(6:00-18:00)
-
+![24h](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/sample_24h.gif)
 # 其他功能
 
 ## 月相

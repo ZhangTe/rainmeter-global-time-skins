@@ -90,6 +90,7 @@ Some countries and regions do not have daylight saving time.
 City Label in the dark background indicates the city is at night(18:00-6:00)
 
 City Label in the light background means the city is in daylight (6:00-18:00)
+![24h](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/sample_24h.gif)
 
 # Additional functions
 
@@ -98,6 +99,7 @@ A simple moon phase image.
 - using 29.53059 days as a lunar cycle
 - assuming that the moon's orbit is a circle for the earth and the moon moves at a constant speed
 ![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
+
 ## Year Hand
 The cyon hand is year hand.
 - using 365.2422 days as a solar cycle
