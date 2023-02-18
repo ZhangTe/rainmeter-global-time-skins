@@ -11,35 +11,7 @@ Available size of the skin (px): 200 x 200 / 300 x 300 / 400 x 400 / 500 x 500
 Resizing is easy to be done, see DIY.
 
 ![Thumbnail](screenshot/SAMPLE2.PNG)
-## Country Flags
-By default flags are visible in skins.
 
-Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
-
-*Update*:
-If you wish to avoid the political risk of using the flag, you can click the button on the very top-right of the clock (on the border, to 2 o'clock, the small white circle).
-
-
-
-
-The instructions below is OBSOLETE after update .
-***
-"No-Flag" version configuration
-
-This can be manually configured by edit the *ini file* use a text-editor.
-- Right click the skin then choose "edit skin"
-- Find the module \[MeterHoursUTC0\]
-- Find the attribute "ImageName=hand12wf.png". 
-    To do this, in most text-editor you can press 'ctrl+F' to call out the search window, than input "ImageName=hand12wf.png" to find out the line
-- Modify this line with "ImageName=hand12w.png"
-- Refresh the skin
-
-
-This can also be achieved by changing the file name "hand12w.png" to "hand12wf.png" in the corresponding folder 
-***
-
-
-The flags' shapes used by the skin are from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
 
 
 ## CITY LIST with *Daylight Saving Times*
@@ -116,6 +88,36 @@ The cyon hand is year hand.
 		Winter:Blue
 		
 - One year (New Year's Day) starts at 6 o'clock
+# Notice
+## Country Flags
+By default flags are visible in skins.
+
+Please be careful about the [Flag Etiquette](https://en.wikipedia.org/wiki/Flag_protocol) in public places
+
+*Update*:
+If you wish to avoid the political risk of using the flag, you can click the button on the very top-right of the clock (on the border, to 2 o'clock, the small white circle).
+
+
+
+
+The instructions below is OBSOLETE after update .
+***
+"No-Flag" version configuration
+
+This can be manually configured by edit the *ini file* use a text-editor.
+- Right click the skin then choose "edit skin"
+- Find the module \[MeterHoursUTC0\]
+- Find the attribute "ImageName=hand12wf.png". 
+    To do this, in most text-editor you can press 'ctrl+F' to call out the search window, than input "ImageName=hand12wf.png" to find out the line
+- Modify this line with "ImageName=hand12w.png"
+- Refresh the skin
+
+
+This can also be achieved by changing the file name "hand12w.png" to "hand12wf.png" in the corresponding folder 
+***
+
+
+The flags' shapes used by the skin are from [Country-flags repo in github](https://github.com/hampusborgos/country-flags) .
 
 # Environment & Installation 
 
