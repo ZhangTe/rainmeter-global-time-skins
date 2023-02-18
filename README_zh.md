@@ -1,4 +1,4 @@
-[English](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README.md)| [中文](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README_zh.md)
+[English](README.md)| [中文](README_zh.md)
 
 # 12时-世界时钟
 
@@ -9,7 +9,7 @@
 
 皮肤大小 (px)：200 x 200 / 300 x 300 / 400 x 400 / 500 x 500
 
-![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE2_cn.PNG)
+![Thumbnail](screenshot/SAMPLE2_cn.PNG)
 ## 国旗
 皮肤默认设置为有旗帜的版本。
 
@@ -82,7 +82,7 @@
 
 ## 昼夜表示
 世界表上深色的区域表示夜晚(18:00-6:00)，浅色表示白天(6:00-18:00)
-![24h](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/sample_24h.gif)
+![24h](screenshot/sample_24h.gif)
 # 其他功能
 
 ## 月相
@@ -93,7 +93,7 @@
 
 <br/>
 
-![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
+![Moon](screenshot/moonphase.gif)
 
 ## 年表针
 

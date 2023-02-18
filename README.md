@@ -1,4 +1,4 @@
-[English](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README.md)| [中文](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/README_zh.md)
+[English](README.md)| [中文](README_zh.md)
 # 12-Hour Global Clock
 
 ## The Clock
@@ -10,7 +10,7 @@ Available size of the skin (px): 200 x 200 / 300 x 300 / 400 x 400 / 500 x 500
 
 Resizing is easy to be done, see DIY.
 
-![Thumbnail](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/SAMPLE2.PNG)
+![Thumbnail](screenshot/SAMPLE2.PNG)
 ## Country Flags
 By default flags are visible in skins.
 
@@ -90,7 +90,7 @@ Some countries and regions do not have daylight saving time.
 City Label in the dark background indicates the city is at night(18:00-6:00)
 
 City Label in the light background means the city is in daylight (6:00-18:00)
-![24h](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/sample_24h.gif)
+![24h](screenshot/sample_24h.gif)
 
 # Additional functions
 
@@ -98,7 +98,7 @@ City Label in the light background means the city is in daylight (6:00-18:00)
 A simple moon phase image. 
 - using 29.53059 days as a lunar cycle
 - assuming that the moon's orbit is a circle for the earth and the moon moves at a constant speed
-![Moon](https://github.com/ZhangTe/rainmeter-global-time-skins/blob/main/screenshot/moonphase.gif)
+![Moon](screenshot/moonphase.gif)
 
 ## Year Hand
 The cyon hand is year hand.
